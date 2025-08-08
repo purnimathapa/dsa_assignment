@@ -22,14 +22,10 @@ Main Function:
 - A list is created with values: 10, 20, 30, 40.
 - The reversePrint function is called to show them in reverse.
 
-How to Compile and Run:
-gcc prog_3.c -o prog_3  
-./prog_3
+
 
 Sample Output:
 Reverse traversal:
 40 30 20 10
 
-Notes:
-- This doesn't change the original list.
-- You can change the inserted values or number of nodes to test.
+
