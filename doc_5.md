@@ -35,6 +35,4 @@ Sample Output:
 BFS traversal: 0 1 2 3 4  
 DFS traversal: 0 1 3 2 4
 
-Notes:
-- This uses a fixed graph, but you can change the edges in code to try different examples.
-- The nodes are indexed from 0 to n-1.
+
